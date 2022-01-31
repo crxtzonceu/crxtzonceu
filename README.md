@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crxtzonceu
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning web development(html for now)
+- 🌱 I’m currently learning web development(CSS Currently)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
