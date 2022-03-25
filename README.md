@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @crxtzonceu
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning web development(JavaScript Currently)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me zamanthaquijano@gmail.com
+- 👋 Hi, I’m John Mark aka. @crxtzonceu, I'm 18 and from Philippines 
+- 👀 I’m interested in learning Full-Stack and looking for a beginner coding bunny to learn with
+- 🌱 I’m a beginner and currently learning web development(JavaScript Currently) 
+- 📫 Email me on zamanthaquijano@gmail.com
 
 <!---
 crxtzonceu/crxtzonceu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- - 💞️ I’m looking to collaborate on ... -->
