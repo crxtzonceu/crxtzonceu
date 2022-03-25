@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning web development(JavaScript Currently)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me zamanthaquijano@gmail.com
 
 <!---
 crxtzonceu/crxtzonceu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
