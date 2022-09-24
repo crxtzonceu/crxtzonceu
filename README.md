@@ -1,6 +1,6 @@
-- 👋 Hi, I’m John Mark aka. @crxtzonceu, I'm 18 and from Philippines 
+- 👋 Hi, I’m John Mark aka. @crxtzonceu, I'm 19 and from Philippines 
 - 👀 I’m interested in learning Full-Stack Web Development and improving my programming skills
-- 🌱 I’m a beginner and currently learning Web Development(JavaScript rn) 
+- 🌱 I’m a beginner and currently learning Web Development but sadly i took a 4 month break and now i'm willing to learn from the start again. 
 - 📫 Email me on zamanthaquijano@gmail.com
 
 <!---
