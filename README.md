@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crxtzonceu&show_icons=true&locale=en" alt="crxtzonceu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crxtzonceu&" alt="crxtzonceu" /></p>
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=crxtzonceu&show_icons=true&theme=dark) 
+[crxtzonceu github stats](https://github-readme-stats.vercel.app/apiusername=crxtzonceu&show_icons=true&theme=dark) 
