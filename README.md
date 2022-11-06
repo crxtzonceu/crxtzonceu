@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Guide and Tips**
 
-- 👨‍💻 All of my projects are available at [https://crxtzonceu.github.io/portfolio/](https://crxtzonceu.github.io/portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://crxtzonceu.github.io/portfolio/](https://crxtzonceu.github.io/portfolio/) -->
 
 - 💬 Ask me about **HTML and CSS basics**
 
