@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John(19)</h1>
+<h1 align="center">Hi 👋, I'm JM(19)</h1>
 <h3 align="center">A self-taught beginner learning Full-Stack Web Development from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crxtzonceu&label=Profile%20views&color=0e75b6&style=flat" alt="crxtzonceu" /> </p>
