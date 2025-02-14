@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crxtzonceu&label=Profile%20views&color=0e75b6&style=flat" alt="crxtzonceu" /> </p>
 
-- 🔭 I’m currently **Learning the fundamentals of HTML, CSS and JavaScript**
+<!-- - 🔭 I’m currently **Learning the fundamentals of HTML, CSS and JavaScript**
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for help with **Guide and Tips**
 
-<!-- - 👨‍💻 All of my projects are available at [https://crxtzonceu.github.io/portfolio/](https://crxtzonceu.github.io/portfolio/) -->
+ - 👨‍💻 All of my projects are available at [https://crxtzonceu.github.io/portfolio/](https://crxtzonceu.github.io/portfolio/) 
 
 - 💬 Ask me about **HTML and CSS basics**
 
 - 📫 How to reach me **zamanthaquijano@gmail.com**
 
-- ⚡ Fun fact **I am introvert**
+- ⚡ Fun fact **I am introvert** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
